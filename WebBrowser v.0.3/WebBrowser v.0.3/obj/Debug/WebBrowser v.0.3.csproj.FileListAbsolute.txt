@@ -1,0 +1,10 @@
+E:\dropbox\Dropbox\example visual studio\WebBrowser v.0.3\WebBrowser v.0.3\bin\Debug\WebBrowser v.0.3.exe.config
+E:\dropbox\Dropbox\example visual studio\WebBrowser v.0.3\WebBrowser v.0.3\obj\Debug\WebBrowser v.0.3.csprojResolveAssemblyReference.cache
+E:\dropbox\Dropbox\example visual studio\WebBrowser v.0.3\WebBrowser v.0.3\obj\Debug\WebBrowser_v._0._3.Form1.resources
+E:\dropbox\Dropbox\example visual studio\WebBrowser v.0.3\WebBrowser v.0.3\obj\Debug\WebBrowser_v._0._3.Properties.Resources.resources
+E:\dropbox\Dropbox\example visual studio\WebBrowser v.0.3\WebBrowser v.0.3\obj\Debug\WebBrowser v.0.3.csproj.GenerateResource.Cache
+E:\dropbox\Dropbox\example visual studio\WebBrowser v.0.3\WebBrowser v.0.3\bin\Debug\WebBrowser v.0.3.exe
+E:\dropbox\Dropbox\example visual studio\WebBrowser v.0.3\WebBrowser v.0.3\bin\Debug\WebBrowser v.0.3.pdb
+E:\dropbox\Dropbox\example visual studio\WebBrowser v.0.3\WebBrowser v.0.3\obj\Debug\WebBrowser v.0.3.exe
+E:\dropbox\Dropbox\example visual studio\WebBrowser v.0.3\WebBrowser v.0.3\obj\Debug\WebBrowser v.0.3.pdb
+E:\dropbox\Dropbox\example visual studio\WebBrowser v.0.3\WebBrowser v.0.3\obj\Debug\WebBrowser_v._0._3.Form2.resources
